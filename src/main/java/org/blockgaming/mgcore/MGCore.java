@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 /**
  * MinigameCore main class.
  * <p>
- * Copyright (C) Koenn - All Rights Reserved
+ * Copyright (C) BlockGaming - All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
  * Written by Koen Willemse, June 2017
