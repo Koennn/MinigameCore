@@ -1,0 +1,8 @@
+name: MinigameCore
+version: 1.0-SNAPSHOT
+main: org.blockgaming.mgcore.MGCore
+prefix: MGCore
+depend: [KoennCore, EffectLib]
+authors: [Koenn, Cindayra]
+description: BlockGaming minigame core plugin
+website: http://blockgaming.org
