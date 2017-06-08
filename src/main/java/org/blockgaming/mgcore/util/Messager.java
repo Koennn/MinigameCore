@@ -2,8 +2,7 @@ package org.blockgaming.mgcore.util;
 
 import me.koenn.core.misc.ColorHelper;
 import me.koenn.core.misc.Title;
-import me.koenn.kingdomwars.game.Game;
-import mkremins.fanciful.FancyMessage;
+import org.blockgaming.mgcore.games.Game;
 import org.blockgaming.mgcore.games.kingdomwars.Team;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
