@@ -6,3 +6,13 @@ depend: [KoennCore, EffectLib]
 authors: [Koenn, Cindayra]
 description: BlockGaming minigame core plugin
 website: http://blockgaming.org
+commands:
+  forcestart:
+    description: Forcefully starts the game
+    usage: "Usage: /forcestart"
+  cgive:
+    description: Gives the caster the custom items from the plugin, tab-complete compitable
+    usage: "Usage: /cgive [item]"
+  forcestop:
+    description: Forcefully stops the game
+    usage: "Usage: /forcestop"

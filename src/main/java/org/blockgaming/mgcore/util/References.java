@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  * <p>
- * Copyright (C) Koenn - All Rights Reserved
+ * Copyright (C) BlockGaming - All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
  * Written by Koen Willemse, April 2017
@@ -23,10 +23,10 @@ public final class References {
     public static final String GAME_ABOUT_TO_START = GAME_PREFIX + "&2The game is about to start!";
     public static final String GAME_STARTED = GAME_PREFIX + "&2The game has started!";
     public static final String DONT_SHOOT_ALLY = GAME_PREFIX + "&cPlease don't attempt to hurt your allies.";
-    public static final String KILL = "&2+1 Kill!";
-    public static final String JOIN_MESSAGE = "&7You joined a game, please wait until it starts.";
+    public static final String KILL = "&2Enemy slain";
+    public static final String JOIN_MESSAGE = "&7You joined a game, please wait for it to start.";
     public static final String DEATH = GAME_PREFIX + "&4You died! Please wait 5 seconds.";
-    public static final String DEATH_TITLE = "&c&lYou died!";
+    public static final String DEATH_TITLE = "&c&lYou are dead!";
     public static final String RESPAWN = GAME_PREFIX + "&2You respawned! Try not to die this time.";
     public static final String CLASS = GAME_PREFIX + "&2You are in the &a&l%class% &2class!";
     public static final String MAP = GAME_PREFIX + "&2We're playing on the &a&l%map% &2map!";
